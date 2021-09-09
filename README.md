@@ -1,0 +1,1 @@
+This is the Hangman game where you have to guess a word. The word is in spanish.
